@@ -496,6 +496,18 @@ header .navbar ul li a:hover{
    body{
        padding:0;
    }
+   .btn11{
+       background:var(--yellow) ;
+       color: #333;
+       font-weight: 800;
+   }
+   .btn11:hover{
+    background:var(--yellow)
+   }
+   .btn12:hover{
+    background:#333;
+   }
+   
 
 }
 
